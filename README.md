@@ -7,9 +7,21 @@
 
 ## Honors and Awards
 
-### **AI & Data Engineering (Super AI Engineer SS6)**
-* **Awarded: 2nd Runner-up** – mini-Hackathon 2: OCR Election Document Analysis
-* **Top 20 Ranking – Level 1: 5 Domains Hackathon:**
+### **AI & Data Engineering (Super AI Engineer Program)**
+#### **Super AI Engineer – Level 2 (Current)**
+* **Winner** – WellSense AIoT Hackathon | *Jun 2026*
+  * Developed an AI-powered industrial safety smart helmet featuring multi-sensor integration and real-time monitoring.
+  * **Hardware & Sensor Fusion:** Built an embedded system using Arduino Nano 33 BLE Sense Lite and Arduino UNO R4, implementing on-device fall detection utilizing IMU sensor data and Decision Tree models.
+  * **Mobile Development:** Created a real-time telemetry dashboard mobile application to seamlessly receive and visualize environmental and safety metrics.
+  
+* **2nd Runner-Up** – CoffeeChain Hackathon (Demand Forecasting at Scale) | *May 2026*
+  * Designed and implemented an end-to-end data pipeline and model training workflow for large-scale sales forecasting.
+  * **Machine Learning:** Developed an Ensemble Model (CatBoost + XGBoost) combined with advanced feature engineering to optimize prediction accuracy.
+  * **Data Visualization:** Built interactive dashboards to transform complex time-series predictions into actionable business insights.
+---
+#### **Super AI Engineer – Level 1**
+* **2nd Runner-Up** – mini-Hackathon 2: OCR Election Document Analysis
+* **Top 20 Ranking** – 5 Domains Hackathon (Out of 300+ Teams):
   * **17th / 303 Teams** – Sleep Stage Classification
   * **20th / 387 Teams** – House Recognition
 

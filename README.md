@@ -11,7 +11,7 @@
 #### **Super AI Engineer – Level 2 (Current)**
 * **Winner** – WellSense AIoT Hackathon | *Jun 2026*
   * Developed an AI-powered industrial safety smart helmet featuring multi-sensor integration and real-time monitoring.
-  * **Hardware & Sensor Fusion:** Built an embedded system using Arduino Nano 33 BLE Sense Lite and Arduino UNO R4, implementing on-device fall detection utilizing IMU sensor data and Decision Tree models.
+  * **Hardware & Sensor Fusion:** Built an embedded system using Arduino Nano 33 BLE Sense Lite and Arduino UNO Q, implementing on-device fall detection utilizing IMU sensor data.
   * **Mobile Development:** Created a real-time telemetry dashboard mobile application to seamlessly receive and visualize environmental and safety metrics.
   
 * **2nd Runner-Up** – CoffeeChain Hackathon (Demand Forecasting at Scale) | *May 2026*

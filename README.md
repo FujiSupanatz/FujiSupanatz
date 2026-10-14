@@ -40,7 +40,7 @@ I enjoy building AI-powered applications, experimenting with machine learning mo
 - 🥉 **2nd Runner-Up (National)** – Coding War by depa | *BlinDee*
 - 🥇 **1st Place (Regional)** – Coding Bootcamp Eastern Region
 - 🏅 **Startup DNA Special Prize** – EEC2 Environmental Empowerment Camp
-- 🥇 **Gold Medal** – Arduino Education Day Thailand 2024: Innovation for Water Security
+- 🥇 **Certificate** – Arduino Education Day Thailand 2024: Innovation for Water Security
 
 ---
 

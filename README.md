@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* Student at **Institute of Field Robotics (FIBO), King Mongkut's University of Technology Thonburi (KMUTT)**
+
 * Interested in **Embedded Systems, IoT, AI Robotics, and iOS Development** 
   
 ---
